@@ -19,7 +19,7 @@ docker pull parasminfy/hello-python:latest
 docker run -p 8000:8000 parasminfy/hello-python:latest
 ```
 
-## Building the Image Locally (Optional)
+## Building the Image Locally 
 
 If you'd rather build the image yourself:
 
